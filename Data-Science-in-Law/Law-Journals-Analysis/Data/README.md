@@ -3,8 +3,10 @@ This data was pulled from the Washington and Lee University School of Law's Law 
 
 # Data Notes
 
-## Variables
+## Key Variables
 
 ### 1) Combined Score
-### 1) 
-### 1) 
+### 2) Impact Factor
+### 3) Journal Cites
+### 4) Currency Factor
+### 5) Case Cites
