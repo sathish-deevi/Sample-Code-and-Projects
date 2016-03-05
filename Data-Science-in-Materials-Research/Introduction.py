@@ -121,5 +121,5 @@ for material in materials:
 
 rfr = ensemble.RandomForestRegressor(n_estimators=10) #try 10 trees in the forest
 
-#Code from <http://www.citrine.io/blog/?author=531a8256e4b0467fe7e39228>
-# written and posted by Bryce Meredig of Citrine
+#This code is from an introduction/tutorial available from <http://www.citrine.io/blog/?author=531a8256e4b0467fe7e39228>
+# It was written and posted by Bryce Meredig of Citrine
