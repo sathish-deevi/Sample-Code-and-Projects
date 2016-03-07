@@ -1,3 +1,6 @@
+# R Language script
+# Written by Sathish Deevi
+
 #Set you working directory (the folder where you keep the data, script and work out of)
 setwd("C:/.../Data")
 
